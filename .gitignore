@@ -25,7 +25,6 @@ doc/nmstate.service.8
 
 _kubevirtci
 
-rust/Cargo.lock
 rust/target
 rust/src/clib/test/nmstate_test
 rust/src/clib/test/nmpolicy_test
